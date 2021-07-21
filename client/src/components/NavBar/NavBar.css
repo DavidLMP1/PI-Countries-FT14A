@@ -1,0 +1,53 @@
+.navbar{    
+    background-color: transparent;
+    display: flex;    
+}
+
+.botonhome{  
+    width: 100px;
+    justify-content: center;
+    color: white; 
+    height: 35px;
+    border-radius: 5px;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 20px;   
+    text-align:center;     
+}
+
+.botonhome:hover{
+    box-shadow: 0px 10px 10px white;
+}
+
+.botoncreate{  
+    width: 300px;
+    justify-content: center;
+    color: white; 
+    height: 35px;
+    border-radius: 5px;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 19px;   
+    text-align:center;     
+}
+
+.botoncreate:hover{
+    box-shadow: 0px 10px 10px white;
+}
+
+
+.botonland{ 
+
+    width: 300px;
+    font-size: 30px;
+    justify-content: center;
+    color: white; 
+    height: 70px;
+    border-radius: 5px;
+    border: 0px transparent;
+    background-color: transparent;    
+    cursor: pointer;
+    text-align:center;
+    margin-right: 600px;     
+}
+

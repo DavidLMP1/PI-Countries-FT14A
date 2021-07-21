@@ -1,0 +1,44 @@
+
+.card {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    line-height: 2px;      
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: white;
+    margin-left: 20px;
+    margin-left: 500px;    
+}
+
+.flag{
+    margin: 5px;
+    height: 250px;
+    width: 350px;
+    
+    
+}
+
+.countrydetails{
+    background-image:url("../../images/mundo\ blue.jpg");
+    display: flex;
+    height: 100vh;
+    background-color:transparent;      
+    align-items: center;
+}
+
+.btnhome{       
+    width: 100px;    
+    color: white; 
+    height: 70px;
+    border-radius: 5px;
+    background-color: transparent;     
+    cursor: pointer;
+    font-size: 25px;
+    text-align:center;
+    border: 1px solid white;     
+}
+
+.btnhome:hover{
+    box-shadow: 0px 10px 10px white;
+}
